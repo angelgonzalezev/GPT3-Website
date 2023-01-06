@@ -14,10 +14,7 @@ const Possibility = () => {
           The possibilities are beyond your imagination
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          GPT-3 has the ability to generate human-like text, so it has a wide range of potential applications. Some possible uses for GPT-3 include: Language translation, Content creation, Conversation simulation, Summarization, Text completion, Question answering, etc...
         </p>
         <h4>Request Early Access to Get Started</h4>
       </div>
